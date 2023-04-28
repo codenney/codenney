@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on something coolicious!
-- 🌱 I’m currently learning React with #Progate
 - 👀 I am a Software Engineer at ALX Africa
 - ⚡ Fun fact: I love watching Korean dramas
 - 🏍 I am on the journey of being a Full Stack Engineer
